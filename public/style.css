@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+div.container {
+    background-color: #23252C;
+    width: 550px;
+    height: 868px;
+}
+
+div.card {
+    border: 2px solid white;
+    /* border-radius: 5px; */
+    width: 317px;
+    height: 780px;
+}
+
+img {
+    width: 317px;
+    height: 317px;
+    background: black;
+}
+
+div.headline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+div.headline > h1 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 6.19px;
+}
+
+div.headline h4 {
+    color: #F3BF99;
+    font-weight: 400;
+}
+
+div.headline a {
+    text-decoration: none;
+    color: #F5F5F5;
+    font-size: 10.24px;
+    margin: 10px 0;
+}
+
+div.contact-buttons {
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+    margin: 20.76px 0 33px;
+}
+
+div.contact-buttons button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 115px;
+    height: 34px;
+    border: none;
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+
+div.contact-buttons a {
+    text-decoration: none;
+}
+
+svg.cont-button-icon {
+    width: 16px;
+    height: 16px;
+}
+
+div.contact-buttons .email-button {
+    background-color: white;
+}
+div.contact-buttons .email-button a {
+    color: #374151;
+}
+
+div.contact-buttons .linkedin-button {
+    background-color: #5093E2;
+}
+div.contact-buttons .linkedin-button a {
+    color: white;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 33px 34px 9px;
+    /* margin: 33px 34px 24px; */
+    /* margin: 33px; */
+}
+
+main > h3 {
+    color: #F5F5F5;
+    font-size: 16px;
+    margin-bottom: 5px;
+    /* font-weight: 700; */
+}
+
+main p {
+    color: #DCDCDC;
+    font-size: 10.24px;
+    margin-bottom: 27px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 317px;
+    height: 64px;
+    background-color: #161619;
+}
+
+footer svg {
+    width: 25px;
+    height: 25px;
+    fill: #918E9B;
+    margin-right: 24px;
+}
+
+footer svg:last-child {
+    margin-right: 0;
+}
