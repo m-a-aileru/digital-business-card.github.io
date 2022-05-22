@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+DIGITAL BUSINESS CARD
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[What is it?]
 
-In the project directory, you can run:
+This is simply exactly what it says on the tin (or, in this case, README file) - it's a digital business card. 
 
-### `npm start`
+[How does it work?]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Well, ideally it would be sent to you in some way, shape or form and you simply read the information (about me, of course) on it. Almost like giving you a business card in real-life, only with this one you can visit my portfolio site, contact me via email and/or LinkedIn, or visit my social media pages on Twitter, Facebook, Instagram or GitHub (GitHub isn't social media, or is it? Ah, you know what I mean). That said, you can't as of yet do any of those things listed so the links just go to the original sites or are currently dummy links. It is a prototype assignment, after all.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Who made it?]
 
-### `npm test`
+I did, of course ('I' being Matthew Aileru).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Where does it come from?]
 
-### `npm run build`
+It came from a solo project assignment from Module 13 (at the time of writing as they are almost always updating the curriculum) of 'The Front-End Developer Career Path' offered by Scrimba.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Why does this exist?]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+It was built for the sheer purpose of practising what I've learnt about React up to this point in time, so a good static page project to do from scratch without any hand-holding or training wheels. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Anything else?]
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Well, there are 3 other designs for the digital business card so an update including those will be on the horizon in the future. This project might also have sparked the idea of a far more useful a deeper reaching app for later on. Something along the lines of a 'Digital Business Card Maker' or something? I don't know, we'll see...
