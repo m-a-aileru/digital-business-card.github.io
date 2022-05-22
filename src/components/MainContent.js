@@ -4,13 +4,13 @@ export default function MainContent() {
     return (
         <main>
             <h3>About</h3>
-            <p>I am a frontend developer with a particular interest in making things simple 
-                and automating daily tasks. I try to keep up with security and best practices, 
-                and am always looking for new things to learn.</p>
+            <p>A frontend developer with an appetite for building tools and utilities as well as other experiences
+                to aid end users in their everyday lives. I occasionally take experimental approaches in terms of 
+                design and functionality to further discover and explore new opportunities in both areas.</p>
 
             <h3>Interests</h3>
-            <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. 
-               Travel geek. Pop culture ninja. Coffee fanatic.</p>
+            <p>Food lover. Music disciple. Sport enthusiast. Avid reader. Fitness nerd. Internet fanatic. 
+               Video game geek. Anime ninja. Adventure sniffer. Coffee consumer.</p>
         </main>
     );
 }
